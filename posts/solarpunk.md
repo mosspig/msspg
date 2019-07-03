@@ -1,7 +1,7 @@
 ---
-pageTitle: Solarpunk Collection
+pageTitle: Solarpunk
 layout: layout.njk
-date: 2019-04-14
+date: 2019-04-19
 ---
 
 ---
