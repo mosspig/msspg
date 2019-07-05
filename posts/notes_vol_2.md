@@ -29,6 +29,8 @@ date: 2019-06-30
 
 The book [Four Futures](https://www.versobooks.com/books/1847-four-futures), by Peter Frase
 
+---
+
 ## Fully Automated Luxury Communism
 
 Bastani's [Op-Ed piece in the NYT](https://www.nytimes.com/2019/06/11/opinion/fully-automated-luxury-communism.html)
