@@ -112,6 +112,10 @@ Essay on [Ecological Crisis](http://new-compass.net/articles/ecological-crisis-s
 
 "Petroleum, natural gas, and coal continue to dominate U.S. energy consumption" -- [link](https://www.eia.gov/todayinenergy/detail.php?id=40013)
 
+---
 
+## Walkaway
+
+Cory Doctorow's [Talk at Google](https://www.youtube.com/watch?v=9gfHFtrM_xA)
 
 
