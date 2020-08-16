@@ -1,6 +1,7 @@
 ---
 pageTitle: Solarpunk
 layout: layout.njk
+blurb: Some useful quotes on solarpunk.
 date: 2019-04-19
 ---
 

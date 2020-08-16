@@ -2,6 +2,7 @@
 pageTitle: Postcapitalism 
 layout: layout.njk
 date: 2019-05-30
+blurb: Quick notes on prominent 'postcapitalist' authors and their works.
 ---
 
 ## Paul Mason

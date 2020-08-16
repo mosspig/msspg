@@ -33,3 +33,23 @@ a:hover {
 a:visited{
     color: #0000ff;
 }
+
+audio {
+    display: block;
+    border-radius:20px;
+    #margin: 15px auto auto auto;
+    filter: sepia(20%) saturate(70%) grayscale(1) contrast(99%) invert(12%);
+    max-width: 400px;
+    #height: 22px;
+}
+
+.audio-container {
+display: inline-block;
+display: flex;
+justify-content: left;
+align-items: left;
+#text-align: ;
+max-width: 400px;
+}
+
+

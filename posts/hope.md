@@ -2,6 +2,7 @@
 pageTitle: Hope
 layout: layout.njk
 date: 2019-07-04
+blurb: Inspirational quotes, and the like.
 ---
 
 ---
