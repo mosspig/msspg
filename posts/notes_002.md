@@ -18,3 +18,13 @@ So, there's a push on the left to resurface this submerged politics; to question
 It is therefore interesting now to read the reflections of organizers in the 60s who, while in position of a very clear and urgent political agenda, were wondering how 'political' to be in their 'propaganda efforts'.  Anarchists whose aim was a fundamental transformation of how we live, work, and interact were often telling one another that their best hope for achieving their goals was, in fact, to avoid talk of 'politics' with people on the street, and simply to start enacting the structures they wanted to see built -- alternative schools, alternative housing, urban gardens, small workshops.  
 
 How to reconcile all of this?
+
+---
+2021-02-26 12:49:42
+
+Some things to check out:
+
+Landworker's Alliance: [https://landworkersalliance.org.uk/](https://landworkersalliance.org.uk/)
+
+Liberation Ecology: [http://liberationecology.org/](http://liberationecology.org/)
+
