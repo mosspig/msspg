@@ -2,7 +2,7 @@
 layout: front.njk
 ---
 
-<h1> MOSSPIG </h1>
+<h1>MOSSPIG REVIEW</h1>
 <img src="/img/mosspig_logo.png" height=50px />
 
 {% for post in collections.posts reversed %}
