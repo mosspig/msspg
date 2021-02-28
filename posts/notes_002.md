@@ -50,7 +50,7 @@ Before I continue on, I'd like to register some 'tropes' ... by which I mean, he
 
 - **Trope #1**. Recognizing that some structure or concept that is widely excoriated now as a malicious imposition may have been considered by its originators, at the them, as a benevolent intervention; perhaps even understood at its onset to be flawed, but superior to the available alternatives, and a definite improvement with respect to the past;
 - **Trope #2**.  Identifying internal contradictions in a prevailing system as a way of arguing against it.  This seems to have become a particularly salient mode of reasoning as our collection of shared assumptions and values seems to be dwindingly. 
-
+- **Trope #3**.  Revealing that the evidence and reasoning in support of some commonly-held conviction is, on review, no longer compelling; that it was originally endorsed as a result of incorrect assumptions, misinterpretation of available evidence, or out of some sort of motivated reasoning or bias.  Similar to Trope #2 above; this trope usually doesn't go so far as to explicitly argue *for* a particular view.
 
 
 
