@@ -42,9 +42,7 @@ Aside: I'm quite sure that any fixed notion of what that era was like is likely 
 
 In contrast, today:  fractures, splintering, discontinuities; few shared assumptions or strong convictions;  a sense that nearly everything is in flux, is evolving due to forces beyond our control; a sense of the impending 'end', an accelerating process of unraveling.
 
-From the perspective of today, a passionate debate between the Poet and the Scientist about the best way to bring about Utopia feels almost offensively naive ...
-
-
+From the perspective of today, a passionate debate between the Poet and the Scientist about the best way to bring about Utopia feels almost offensively naive, in addition to being presumptious.
 
 
 
