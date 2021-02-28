@@ -44,7 +44,7 @@ In contrast, today:  fractures, splintering, discontinuities; few shared assumpt
 
 From the perspective of today, a passionate debate between the Poet and the Scientist about the best way to bring about Utopia feels almost offensively naive, in addition to being presumptious.
 
-...
+### Some common tropes
 
 Before I continue on, I'd like to register some 'tropes' ... by which I mean, here: some recurring constructions that seem to be deployed often enough that they're worth reflecting on ...
 
