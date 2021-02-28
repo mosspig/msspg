@@ -44,5 +44,14 @@ In contrast, today:  fractures, splintering, discontinuities; few shared assumpt
 
 From the perspective of today, a passionate debate between the Poet and the Scientist about the best way to bring about Utopia feels almost offensively naive, in addition to being presumptious.
 
+...
+
+Before I continue on, I'd like to register some 'tropes' ... by which I mean, here: some recurring constructions that seem to be deployed often enough that they're worth reflecting on ...
+
+- **Trope #1**. Recognizing that some structure or concept that is widely excoriated now as a malicious imposition may have been considered by its originators, at the them, as a benevolent intervention; perhaps even understood at its onset to be flawed, but superior to the available alternatives, and a definite improvement with respect to the past;
+- **Trope #2**.  Identifying internal contradictions in a prevailing system as a way of arguing against it.  This seems to have become a particularly salient mode of reasoning as our collection of shared assumptions and values seems to be dwindingly. 
+
+
+
 
 
