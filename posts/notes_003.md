@@ -67,3 +67,48 @@ I'm not sure how best to articulate this. An analogy:  there are schools or demo
 
 I've always been taken by the necessarily broad experience and skills of small-holding farmers.  They must learn and become somewhat adept at all of the aspects of farming: horticultural, but also electrical, mechasnic, meteorological, statistical, economic, social, political. Speaking with such an individual about the world that they inhabit, one senses an active mind, with an enthusiasm for learning and understanding bred, again, from necessity -- from a sense that more knowledge will lead to more security, greater powers. 
 
+---
+2021-10-16 20:18:55
+
+What's the guide I wish I had to read now?
+
+farming
+hospitality
+low-tech / high-tech hybrid mechanics
+agroecology
+ecology
+
+---
+2021-10-19 08:45:08
+
+[https://alexsteffen.substack.com/p/dispatches-from-an-unready-world](https://alexsteffen.substack.com/p/dispatches-from-an-unready-world)
+
+This article suggests a sort of 'intersectionality of risk' ...
+
+> It is critical to remember, as well, that none of these analyses of risk take the crisis seriously enough, because every place confronts multiple overlapping risks, some only measured and modeled with difficulty, some currently beyond our capacity to predict. As we’ve discussed before, the reality of discontinuity itself — and the loss of predictability it brings — is the single greatest cost of this crisis.
+
+Spork!
+
+Things to propose:
+1. Flood warning for W Mass
+2. walk-in cooler monitors
+3. conductivity w/ Mara
+4. ACH assessment using CO2
+5. CADR assessment using anemometer
+6. ecological oscillations w/ machta
+
+---
+2021-10-19 08:53:53
+
+Making air quality safery could be the public health intervention for this century [https://twitter.com/j_g_allen/status/1450442346986983434?s=20](https://twitter.com/j_g_allen/status/1450442346986983434?s=20)
+
+---
+2021-10-19 11:14:46
+
+https://enso.org/
+
+https://www.reichelt.de/de/de/adafruit-nrf52-bluefruit-le-ada-fb-nrf52-p248597.html?search=adafruit+feather+m4&&r=1
+
+---
+2021-11-15 12:48:33
+
