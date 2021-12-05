@@ -109,6 +109,18 @@ https://enso.org/
 
 https://www.reichelt.de/de/de/adafruit-nrf52-bluefruit-le-ada-fb-nrf52-p248597.html?search=adafruit+feather+m4&&r=1
 
----
-2021-11-15 12:48:33
+How to organize all of these projects?
 
+New approach -- start from interest / pedagogy.
+
+Wire sculpture.
+
+Tree climbing. 
+
+GPS / mapping. 
+
+Outdoor heating.
+
+Water pumping / control.
+
+A set of projects where the idea is to make 'fallback' relationships between various technologies.
